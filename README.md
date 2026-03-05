@@ -1,7 +1,7 @@
 # 📊 LeetCode SQL Solutions
 
 This repository contains my solutions to SQL problems from LeetCode.  
-I am solving problems daily to strengthen my database and query optimization skills.
+I am solving problems daily to strengthen my **database and query optimization skills**.
 
 ---
 
@@ -50,6 +50,33 @@ I am solving problems daily to strengthen my database and query optimization ski
 - DENSE_RANK()
 - Top-N per Group Logic
 
+---
+
+# ✅ Day 3 – SQL Practice
+
+## 🔥 Problems Solved
+
+| Problem No | Title | Difficulty |
+|------------|--------|------------|
+| 196 | Delete Duplicate Emails | Easy |
+| 197 | Rising Temperature | Easy |
+| 511 | Game Play Analysis I | Easy |
+| 512 | Game Play Analysis II | Easy |
+| 534 | Game Play Analysis III | Medium |
+
+## 🧠 Concepts Covered
+
+- DELETE with Self Join
+- Date Functions
+- Aggregation
+- Window Functions
+- GROUP BY
+
+---
+
+## 🚀 Goal
+
+Solve **SQL problems daily on LeetCode** and push solutions to **GitHub** to improve database and query skills.
 
 🔥 Consistency > Motivation  
-📈 Improving SQL daily
+📈 Improving SQL every day
