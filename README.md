@@ -5,6 +5,21 @@ I am solving problems daily to strengthen my **database and query optimization s
 
 ---
 
+# 🚀 Progress Overview
+
+| Day | Problems Solved |
+|----|----------------|
+| Day 1 | 5 |
+| Day 2 | 5 |
+| Day 3 | 5 |
+| Day 4 | 5 |
+| Day 5 | 5 |
+| Day 6 | 5 |
+
+✅ **Total Problems Solved: 30**
+
+---
+
 # ✅ Day 1 – SQL Practice
 
 ## 🔥 Problems Solved
@@ -19,13 +34,13 @@ I am solving problems daily to strengthen my **database and query optimization s
 
 ## 🧠 Concepts Covered
 
-- INNER JOIN
-- Subqueries
-- LIMIT & OFFSET
-- Window Functions
-- DENSE_RANK()
-- LAG()
-- Self Join
+- INNER JOIN  
+- Subqueries  
+- LIMIT & OFFSET  
+- Window Functions  
+- DENSE_RANK()  
+- LAG()  
+- Self Join  
 
 ---
 
@@ -43,12 +58,12 @@ I am solving problems daily to strengthen my **database and query optimization s
 
 ## 🧠 Concepts Covered
 
-- Self Join
-- LEFT JOIN (Anti Join Pattern)
-- GROUP BY + HAVING
-- Correlated Subqueries
-- DENSE_RANK()
-- Top-N per Group Logic
+- Self Join  
+- LEFT JOIN (Anti Join Pattern)  
+- GROUP BY + HAVING  
+- Correlated Subqueries  
+- DENSE_RANK()  
+- Top-N per Group Logic  
 
 ---
 
@@ -66,11 +81,11 @@ I am solving problems daily to strengthen my **database and query optimization s
 
 ## 🧠 Concepts Covered
 
-- DELETE with Self Join
-- Date Functions
-- Aggregation
-- Window Functions
-- GROUP BY
+- DELETE with Self Join  
+- Date Functions  
+- Aggregation  
+- Window Functions  
+- GROUP BY  
 
 ---
 
@@ -88,12 +103,12 @@ I am solving problems daily to strengthen my **database and query optimization s
 
 ## 🧠 Concepts Covered
 
-- Self Join
-- LEFT JOIN
-- Subqueries
-- GROUP BY + HAVING
-- Aggregate Functions
-- NULL Handling in SQL
+- Self Join  
+- LEFT JOIN  
+- Subqueries  
+- GROUP BY + HAVING  
+- Aggregate Functions  
+- NULL Handling in SQL  
 
 ---
 
@@ -111,18 +126,48 @@ I am solving problems daily to strengthen my **database and query optimization s
 
 ## 🧠 Concepts Covered
 
-- Filtering with WHERE
-- GROUP BY + HAVING
-- Self Join
-- UNION ALL
-- Aggregation
-- Subqueries
+- Filtering with WHERE  
+- GROUP BY + HAVING  
+- Self Join  
+- UNION ALL  
+- Aggregation  
+- Subqueries  
 
 ---
 
-# 🚀 Goal
+# ✅ Day 6 – SQL Practice
 
-Solve **SQL problems daily on LeetCode** and push solutions to **GitHub** to improve database and query skills.
+## 🔥 Problems Solved
+
+| Problem No | Title | Difficulty |
+|------------|------|------------|
+| 608 | Tree Node | Medium |
+| 610 | Triangle Judgement | Easy |
+| 619 | Biggest Single Number | Easy |
+| 620 | Not Boring Movies | Easy |
+| 626 | Exchange Seats | Medium |
+
+## 🧠 Concepts Covered
+
+- CASE Statement  
+- Conditional Logic  
+- Aggregation  
+- GROUP BY  
+- Filtering Records  
+
+---
+
+# ⭐ Consistency Matters
+
+📅 Solving **SQL problems daily**  
+📊 Improving **database querying skills**  
+🚀 Building strong **data engineering fundamentals**
+
+---
+
+# 🎯 Goal
+
+Solve **SQL problems daily on LeetCode** and push solutions to **GitHub** to continuously improve **SQL, data analysis, and database optimization skills**.
 
 🔥 **Consistency > Motivation**  
-📈 Improving SQL every day
+📈 Improving SQL every day.
