@@ -1,7 +1,7 @@
 # 📊 LeetCode SQL Solutions
 
-This repository contains my solutions to SQL problems from **LeetCode**.  
-I solve SQL problems daily to strengthen my **database concepts and query optimization skills**.
+This repository contains my solutions to **SQL problems from LeetCode**.  
+I solve SQL problems daily to strengthen my **database concepts, query optimization, and analytical thinking**.
 
 ---
 
@@ -16,8 +16,9 @@ I solve SQL problems daily to strengthen my **database concepts and query optimi
 | Day 5 | 5 |
 | Day 6 | 5 |
 | Day 7 | 5 |
+| **Day 8** | **5** |
 
-✅ **Total Problems Solved: 35**
+✅ **Total Problems Solved: 40**
 
 ---
 
@@ -170,14 +171,37 @@ I solve SQL problems daily to strengthen my **database concepts and query optimi
 | 1068 | Product Sales Analysis I | Easy |
 | 1070 | Product Sales Analysis III | Medium |
 
+### 🧠 Concepts Covered
+
+- SQL `UPDATE`  
+- `GROUP BY` and `HAVING`  
+- Aggregate Functions (`COUNT`, `MIN`)  
+- Table `JOIN`  
+- Subqueries  
+- Finding first occurrence of records  
+
+---
+
+# ✅ Day 8 – SQL Practice
+
+## 🔥 Problems Solved
+
+| Problem No | Title | Difficulty |
+|------------|-----------------------------------------|------------|
+| 1075 | Project Employees I | Easy |
+| 1084 | Sales Analysis III | Easy |
+| 1141 | User Activity for the Past 30 Days I | Easy |
+| 1148 | Article Views I | Easy |
+| 1158 | Market Analysis I | Medium |
+
 ### 🧠 Concepts Practiced
 
-- SQL `UPDATE`
-- `GROUP BY` and `HAVING`
-- Aggregate Functions (`COUNT`, `MIN`)
-- Table `JOIN`
-- Subqueries
-- Finding first occurrence of records
+- SQL Joins  
+- Aggregation Functions (`COUNT`, `AVG`)  
+- `GROUP BY`  
+- Date Filtering  
+- Conditional Logic  
+- Distinct Records  
 
 ---
 
@@ -193,10 +217,10 @@ I solve SQL problems daily to strengthen my **database concepts and query optimi
 
 Solve **SQL problems daily on LeetCode** and push solutions to **GitHub** to continuously improve:
 
-- SQL
-- Data Analysis
-- Database Optimization
-- Backend Query Skills
+- SQL  
+- Data Analysis  
+- Database Optimization  
+- Backend Query Skills  
 
 🔥 **Consistency > Motivation**  
 📈 Improving SQL every day.
