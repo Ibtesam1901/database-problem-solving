@@ -212,7 +212,34 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 🚀 Building strong **data engineering fundamentals**
 
 ---
+✅ Day 9 – SQL Practice
+🔥 Problems Solved
+Problem No	Title	Difficulty
+1164	Product Price at a Given Date	Medium
+1174	Immediate Food Delivery II	Medium
+1179	Reformat Department Table	Easy
+1204	Last Person to Fit in the Bus	Medium
+1193	Monthly Transactions I	Medium
+1211	Queries Quality and Percentage	Easy
+📊 Progress Update
+Difficulty	Problems Solved
+Easy	25
+Medium	18
+Hard	3
+Total	46
+🚀 What I Practiced Today
 
+Window Functions (SUM() OVER)
+
+Conditional Aggregation
+
+Date Formatting
+
+Pivot Tables
+
+Percentage Calculations
+
+Running Totals
 # 🎯 Goal
 
 Solve **SQL problems daily on LeetCode** and push solutions to **GitHub** to continuously improve:
