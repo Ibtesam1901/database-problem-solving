@@ -5,6 +5,25 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 
 ---
 
+## 🚀 Progress Overview
+
+| Category | Count |
+|----------|------|
+| 🟢 Easy  | 41   |
+| 🟡 Medium| 21   |
+| 🔴 Hard  | 3    |
+| ✅ Total | 65  |
+
+---
+
+## 📈 Stats
+
+- 📌 Total Submissions: 73  
+- 🎯 Acceptance Rate: 93.2%  
+- ⚡ Consistency: Daily Practice  
+
+---
+
 # 🚀 Progress Overview
 
 | Day | Problems Solved |
@@ -21,6 +40,7 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 | Day 10 | 5 |
 | Day 11 | 4 |
 | Day 12 | 5 |
+| **Day 13** | **5** |
 
 ---
 
@@ -265,6 +285,9 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 - `SUM()` with CASE  
 - `GROUP_CONCAT()`  
 - Sorting Results
+
+---
+
 # ✅ Day 12 – SQL Practice
 
 ## 🔥 Problems Solved
@@ -284,7 +307,31 @@ I solve SQL problems daily to strengthen my **database concepts, query optimizat
 - Percentage Calculation  
 - Self Join  
 - `GROUP BY` and `HAVING`  
-- Rounding numeric results using `ROUND()`  
+- Rounding numeric results using `ROUND()`
+
+---
+
+# ✅ Day 13 – SQL Practice
+
+## 🔥 Problems Solved
+
+| Problem No | Title | Difficulty |
+|------------|------|------------|
+| 1693 | Daily Leads and Partners | Easy |
+| 1731 | The Number of Employees Which Report to Each Employee | Easy |
+| 1729 | Find Followers Count | Easy |
+| 1683 | Invalid Tweets | Easy |
+| 1667 | Fix Names in a Table | Easy |
+
+### 🧠 Concepts Practiced
+- `GROUP BY` with Aggregations  
+- `COUNT()` and `COUNT(DISTINCT)`  
+- Self Join  
+- String Functions (`UPPER()`, `LOWER()`, `CONCAT()`)  
+- Data Filtering using `WHERE`  
+- Handling Duplicates with `DISTINCT`  
+- Rounding values using `ROUND()`  
+
 ---
 
 # ⭐ Consistency Matters
