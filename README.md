@@ -16,17 +16,17 @@ This repository documents my **daily SQL problem-solving journey on LeetCode**, 
 
 | Category | Count |
 |----------|------|
-| 🟢 Easy  | 46   |
-| 🟡 Medium| 21   |
+| 🟢 Easy  | 49   |
+| 🟡 Medium| 23   |
 | 🔴 Hard  | 3    |
-| ✅ Total | 70   |
+| ✅ Total | 75   |
 
 ---
 
 ## 📈 Stats
 
-- 📌 Total Submissions: 78  
-- 🎯 Acceptance Rate: 93.6%  
+- 📌 Total Submissions: 83  
+- 🎯 Acceptance Rate: 94.0%  
 - ⚡ Consistency: Daily Practice  
 ---
 
@@ -46,11 +46,13 @@ This repository documents my **daily SQL problem-solving journey on LeetCode**, 
 | Day 10 | 5 |
 | Day 11 | 4 |
 | Day 12 | 5 |
-| **Day 13** | **5** |
+| Day 13 | 5 |
+| Day 14 | 5 |
+| Day 15 | 5 |
 
 ---
 
-✅ Total Problems Solved: 70
+✅ Total Problems Solved: 75
 
 ---
 
@@ -359,7 +361,26 @@ This repository documents my **daily SQL problem-solving journey on LeetCode**, 
 - Filtering using `WHERE`  
 - Aggregate functions like `SUM()`
 ---
+## 📅 Day 15 – SQL Practice
 
+### 🔥 Problems Solved
+
+| Problem No | Title | Difficulty |
+|------------|------|------------|
+| 1890 | The Latest Login in 2020 | Easy |
+| 1907 | Count Salary Categories | Medium |
+| 1934 | Confirmation Rate | Medium |
+| 1965 | Employees With Missing Information | Easy |
+| 1978 | Employees Whose Manager Left the Company | Easy |
+
+---
+
+### 💡 Key Concepts
+- Aggregation (MAX, COUNT)
+- Conditional Aggregation
+- LEFT JOIN & Self JOIN
+- UNION & Missing Data Handling
+- Date Filtering Optimization
 # 🎯 Goal
 
 Solve **SQL problems daily on LeetCode** and push solutions to **GitHub** to continuously improve:
